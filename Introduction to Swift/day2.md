@@ -34,7 +34,7 @@ trueValue.toggle()  // 'trueValue' variable's value becomes 'false'.
 
 ## How to join strings together
 
-You can combine strings with `+` operator.
+You can join strings by using `+` operator.
 
 ```swift
 var first = "Hello, "
