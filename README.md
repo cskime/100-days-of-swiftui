@@ -8,3 +8,4 @@
 | 2023.11.02 | [Day 2 : booleans, string interpolation](https://github.com/cskime/100-days-of-swiftui/blob/main/Introduction%20to%20Swift/day2.md) |
 | 2023.11.03 | [Day 3 : arrays, dictionaries, sets, and enums](https://github.com/cskime/100-days-of-swiftui/blob/main/Introduction%20to%20Swift/day3.md) |
 | 2023.11.04 | [Day 4 : type annotations](https://github.com/cskime/100-days-of-swiftui/blob/main/Introduction%20to%20Swift/day4.md) |
+| 2023.11.05 | [Day 5 : if, switch, and the ternary operator](https://github.com/cskime/100-days-of-swiftui/blob/main/Introduction%20to%20Swift/day5.md) |
