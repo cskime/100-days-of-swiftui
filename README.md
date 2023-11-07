@@ -10,3 +10,4 @@
 | 2023.11.04 | [Day 4 : type annotations](https://github.com/cskime/100-days-of-swiftui/blob/main/Introduction%20to%20Swift/day4.md) |
 | 2023.11.05 | [Day 5 : if, switch, and the ternary operator](https://github.com/cskime/100-days-of-swiftui/blob/main/Introduction%20to%20Swift/day5.md) |
 | 2023.11.06 | [Day 6 : loops](https://github.com/cskime/100-days-of-swiftui/blob/main/Introduction%20to%20Swift/day6.md) |
+| 2023.11.07 | [Day 7 : functions, parameters, and return values](https://github.com/cskime/100-days-of-swiftui/blob/main/Introduction%20to%20Swift/day7.md) |
