@@ -14,3 +14,4 @@
 | 2023.11.08 | [Day 8 : default values, throwing functions](https://github.com/cskime/100-days-of-swiftui/blob/main/Introduction%20to%20Swift/day8.md) |
 | 2023.11.09 | [Day 9 : closures, passing functions into functions](https://github.com/cskime/100-days-of-swiftui/blob/main/Introduction%20to%20Swift/day9.md) |
 | 2023.11.10 | [Day 10 : structs, computed properties, property observers](https://github.com/cskime/100-days-of-swiftui/blob/main/Introduction%20to%20Swift/day10.md) |
+| 2023.11.11 | [Day 11 : access control, static properties and methods](https://github.com/cskime/100-days-of-swiftui/blob/main/Introduction%20to%20Swift/day11.md) |
