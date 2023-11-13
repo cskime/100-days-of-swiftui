@@ -16,3 +16,4 @@
 | 2023.11.10 | [Day 10 : structs, computed properties, property observers](https://github.com/cskime/100-days-of-swiftui/blob/main/Introduction%20to%20Swift/day10.md) |
 | 2023.11.11 | [Day 11 : access control, static properties and methods](https://github.com/cskime/100-days-of-swiftui/blob/main/Introduction%20to%20Swift/day11.md) |
 | 2023.11.12 | [Day 12 : classes, inheritance](https://github.com/cskime/100-days-of-swiftui/blob/main/Introduction%20to%20Swift/day12.md) |
+| 2023.11.13 | [Day 13 : protocols, extensions](https://github.com/cskime/100-days-of-swiftui/blob/main/Introduction%20to%20Swift/day13.md) |
