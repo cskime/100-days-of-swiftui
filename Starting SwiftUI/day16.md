@@ -50,7 +50,7 @@ var body: some View {
 }
 ```
 
-<img src="images/1.png" width="300">
+<img src="images/day16-1.png" width="300">
 
 ## Navigation bar
 
@@ -78,7 +78,7 @@ NavigationStack {
 }
 ```
 
-<img src="images/2.png" width="300">
+<img src="images/day16-2.png" width="300">
 
 ## Modifying program state
 
@@ -143,4 +143,4 @@ struct ContentView: View {
 }
 ```
 
-<img src="images/3.png" width="300">
+<img src="images/day16-3.png" width="300">
