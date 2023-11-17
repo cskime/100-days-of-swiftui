@@ -20,3 +20,4 @@
 | 2023.11.14 | [Day 14 : optionals, nil coalescing](https://github.com/cskime/100-days-of-swiftui/blob/main/Introduction%20to%20Swift/day14.md) |
 | 2023.11.15 | [Day 15 : review](https://github.com/cskime/100-days-of-swiftui/blob/main/Introduction%20to%20Swift/day15.md) |
 | 2023.11.16 | [Day 16 : Basic concepts, Form, NavigationStack, @State, two-way binding, ForEach](https://github.com/cskime/100-days-of-swiftui/blob/main/Starting%20SwiftUI/day16.md) |
+| 2023.11.17 | [Day 17 : TextField, Picker, Segmented Control, Hiding Keyboard](https://github.com/cskime/100-days-of-swiftui/blob/main/Starting%20SwiftUI/day17.md) |
